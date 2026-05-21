@@ -93,7 +93,7 @@ The project includes data scraping, preprocessing, feature extraction, sentiment
 
 ## 🔗 GitHub Repository
 
-https://github.com/GB872004/machine-learning-project-
+https://github.com/GB872004/information-retrieval-project
 
 ---
 
