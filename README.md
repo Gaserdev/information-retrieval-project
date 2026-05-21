@@ -83,7 +83,7 @@ The project includes data scraping, preprocessing, feature extraction, sentiment
 
 ## 👥 Team Members
 
-* Gasser Ahmed
+* Gaser Ahmed
 * Shahd Fawzy
 * Nourhan Diaa
 * Safaa Khalil
